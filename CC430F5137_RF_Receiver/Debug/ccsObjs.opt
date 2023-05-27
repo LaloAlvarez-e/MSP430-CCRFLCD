@@ -1,0 +1,1 @@
+"./RF_Connection.obj" "./main.obj" "./HAL/RF1A.obj" "./HAL/cc430x613x_PMM.obj" "../lnk_cc430f5137.cmd" -llibmath.a -llibc.a 
